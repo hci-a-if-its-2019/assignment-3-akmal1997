@@ -71,24 +71,15 @@
  - **Resolution**: Change the name choice to `<input>` element if we make the real prototype using web programming
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/highfidel2.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
+ - **Reference**: Line number 4
+ - **Feedback**: Too large for the product and menus
+ - **Incidence**:
+ ![Picture]( https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/messageImage_1556786052021.jpg)
+The picture is from the participant computer
+ - **Reason**: Because diffrent screen resolutions between my computer and participant computer. My computer using 1920x1080 pixels and the participant computer using 1366x768 pixels
+ - **Resolution**: Maybe no modifications on this section, because it's only technical problems in screen resolutions
  
  ---
 
