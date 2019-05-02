@@ -62,13 +62,13 @@
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/seragam1.jpg)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Line number 4
+ - **Feedback**: For the name selection, it's better using own type and for the protect to not using fake name, the website must linked to database
+ - **Incidence**: No
+ - **Reason**: The InVision app cannot make the `<input>` element. So, i choose to make a radio button for the prototype 
+ - **Resolution**: Change the name choice to `<input>` element if we make the real prototype using web programming
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
