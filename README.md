@@ -5,62 +5,58 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![High Fidelity Prototype](http://img.youtube.com/vi/8f0YvGWfhFQ/0.jpg)](http://www.youtube.com/watch?v=8f0YvGWfhFQ "High Fidelity Prototype")
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - A Male Student
+ - 20 Years old
+ - Study at ITS, Departement of Electrical Engineering
+ - Medium Level of IT Knowledge
+ - Note: This is a new person to try the prototype
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - A Female Student
+ - 21 Years old
+ - Study at ITS, Departement of Perencanaan Wilayah dan Perkotaan
+ - Medium-low Level of IT Knowledge
+ - Frequent Online Shopping users
+ - Note: Same person like in assignment 1
+
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+1. User open the webshop
+2. User buying something
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+```
+1. Me: Aku minta tolong dong, tes prototype online shop Sahabat Kereta versi aku. Dibukanya pakai PC ya....
+2. Him: Boleh, bisa kucoba
+3. Me: Okelah
+4. Him: Ada beberapa sih yang harus dibenahi. Jadi gini, pertama, bagian nama buat di seragam, nama dada, dan keychain namanya lebih baik pakai isian singkat. Sama yang terakhir websitenya lumayan terzoom
+5. Me: Namanya juga prototype, tapi kalau masalah isian bukannya mending seperti itu ya buat mencegah bisa diisi pakai nama palsu? Seperti daftar email ITS itu yang namanya udah ditentukan
+6. Him: Sebenarnya bisa dicocokan kalau menggunakan database, jadi meskipun pakai isian singkat tapi kalau nama tidak sesuai database yaudah failed
+7. Me: Bisa-bisa, ada lagi?
+8. Him: Untuk interface tidak ada masalah sih
+9. Me: Okedeh, terima kasih yaaaaa....
+10. Him: Sama-sama
+```
 
 #### b. Transcript with Participant 2
+```
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
  - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ ```
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
