@@ -52,10 +52,13 @@
 
 #### b. Transcript with Participant 2
 ```
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. Me: Aku boleh minta tolong lagi gak? 
+2. Her: Apa?
+3. Me: Cobain prototype webshop Sahabat Kereta yang terbaru yang sudah aku rubah
+4. Her: Oke
+5. Her: Kalau menurutku, tampilannya kebesaran banget jadi ya harus ngescroll, sama yang kedua kasih background stasiun atau kereta gitu biar gak sepi dan putih aja, hehehe
+6. Me: Okedeh, itu aja? Yaudah, makasih ya....
+7. Her: Sama-sama
  ```
 
 ### 4. Feedback and Incidence Analysis
@@ -64,7 +67,7 @@
 #### OBSERVATION 1
 ![Prototype Screen 1](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/seragam1.jpg)
 
- - **Reference**: Line number 4
+ - **Reference**: Line number 4 (Participant 1)
  - **Feedback**: For the name selection, it's better using own type and for the protect to not using fake name, the website must linked to database
  - **Incidence**: No
  - **Reason**: The InVision app cannot make the `<input>` element. So, i choose to make a radio button for the prototype 
@@ -73,7 +76,7 @@
 #### OBSERVATION 2
 ![Prototype Screen 2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/highfidel2.jpg)
 
- - **Reference**: Line number 4
+ - **Reference**: Line number 4 (Participant 1) and Line number 5 (Participant 2)
  - **Feedback**: Too large for the product and menus
  - **Incidence**:
  ![Picture]( https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/messageImage_1556786052021.jpg)
@@ -81,6 +84,15 @@ The picture is from the participant computer
  - **Reason**: Because diffrent screen resolutions between my computer and participant computer. My computer using 1920x1080 pixels and the participant computer using 1366x768 pixels
  - **Resolution**: Maybe no modifications on this section, because it's only technical problems in screen resolutions
  
+ #### OBSERVATION 3
+![Prototype Screen 2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-3-akmal1997/master/gambar%20pendukung/highfidel2.jpg)
+
+ - **Reference**: Line number 5 (Participant 2)
+ - **Feedback**: Add some background to make the webshop look not too simple
+ - **Incidence**: Nope
+ - **Reason**: I just modified from the original version and using same white background
+ - **Resolution**: Add some background but with adjusted opacity because for make the text clearer to read
+
  ---
 
 ## Part B: Prototyping (again)
@@ -97,6 +109,10 @@ The picture is from the participant computer
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+
+From the Usability Evaluation, we can conclude that for the web page, it can be easier as long as the user feedback is positive and easy to use.
+
+Yes, for the shop is much easier to use and more intuitive especially if we access in Touchscreen input like some laptop, ultrabooks, and large tablets. You can swipe for choosing the products. But, there are some feedback but it's only minor feedback (Like a look for the webshop, and the `<input>` form in Name section (But it's impossible to make with InVision app) but with name checker to linked to database). For the colour preferences there isn't feedback about that. But, as long the colour is acceptable and don't make users confuse and not want to buy in webshop again (And also negative feedback for colouring too), it's okay we can implement it
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
