@@ -93,8 +93,7 @@ The picture is from the participant computer
  - **Feedback**: Add some background to make the webshop look not too simple
  - **Incidence**: Nope
  - **Reason**: I just modified from the original version and using same white background
- - **Resolution**: Add some background but with adjusted opacity because for make the text clearer to read
-
+ - **Resolution**: No Modifications because if i add some background, it will maybe make the user harder to read some text
  ---
 
 ## Part B: Prototyping (again)
@@ -105,6 +104,8 @@ The picture is from the participant computer
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
+
+There is no changes from the second Assignment. But, i draw again because i combine many sketches that i draw from here: https://github.com/hci-a-if-its-2019/assignment-2-akmal1997
 
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
@@ -119,3 +120,8 @@ Yes, for the shop is much easier to use and more intuitive especially if we acce
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+https://invis.io/GSRTBFZAHD3
+
+Because the project is overquota. You can access it from here: http://imk-akmal.mujahid-pbkk.site/prototypeskwebshop/index.html
+
